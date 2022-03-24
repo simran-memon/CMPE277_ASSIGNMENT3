@@ -23,7 +23,7 @@ In this assignment, we will see how implicit intents work through two examples b
 
 2. If user clicks on Launch button without entering the URL, app throws a message to enter proper URL.
 
-![alt text](?raw=true) 
+![alt text](https://github.com/simran-memon/CMPE277_ASSIGNMENT3/blob/main/screenshots/enterproperurl.jpg?raw=true) 
 
 3. I have used uri.parse() method to invoke the web url.
 
